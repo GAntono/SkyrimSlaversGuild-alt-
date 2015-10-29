@@ -1,4 +1,4 @@
-Scriptname SSGALostPet extends Quest  
+Scriptname ssgALostPet extends Quest  
 
 
 ;/ 
